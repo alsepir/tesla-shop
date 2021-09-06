@@ -1,0 +1,60 @@
+[
+  {
+    "id": 0,
+    "name": "Tesla Model S",
+    "type": "Long Range, Plaid",
+    "price": 1684613,
+    "description": "Революционный электромобиль, призванный полностью уничтожить двигатель внутреннего сгорания и привить человечеству желание передвигаться исключительно на экологически чистом транспорте.",
+    "imgs": [
+      "https://www.ixbt.com/img/n1/news/2021/5/3/maxresdefault_0_large.png",
+      "http://tesla-cars.by/assets/images/catalog/model_s/tesla-model-s_2021_10.jpg",
+      "https://cdn.hevcars.com.ua/wp-content/uploads/2017/05/tesla-model-s-2017-interior-hevcars-01.jpg",
+      "https://cdn.hevcars.com.ua/wp-content/uploads/2017/05/tesla-model-s-2017-interior-hevcars-03.jpg"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Tesla Model 3",
+    "type": "Standard Plus, Long Range, Performance",
+    "price": 512351,
+    "description": "Построен на новой платформе, которая в корне отличается от Model S и Model X. Призван стать первым массовым электромобилем от Tesla Inc.",
+    "imgs": [
+      "https://www.ixbt.com/img/x780/n1/news/2020/9/6/Tesla-Model-3-chrome-delete-1-e1602189413666_large.jpg",
+      "http://tesla-cars.by/assets/images/catalog/model_s/tesla-model-s_2021_10.jpg",
+      "https://cdn.hevcars.com.ua/wp-content/uploads/2017/05/tesla-model-s-2017-interior-hevcars-01.jpg",
+      "https://cdn.hevcars.com.ua/wp-content/uploads/2017/05/tesla-model-s-2017-interior-hevcars-03.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Tesla Model X",
+    "type": "Long Range, Plaid",
+    "price": 11112412421,
+    "description": "Лучший кроссовер. Полностью электрический, двери типа «крылья сокола», полный привод, до 7 мест, панорамное лобовое стекло",
+    "imgs": [
+      "https://daily-motor.ru/wp-content/uploads/2021/08/266786.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tesla Model Y",
+    "type": "Long Range, Performance",
+    "price": 154241231,
+    "description": "Второй после Model X кроссовер от Tesla Inc. Построен на схожей с Model 3 платформе третьего поколения.",
+    "imgs": [
+      "https://daily-motor.ru/wp-content/uploads/2020/07/tesla-model-y-rezko-poteryala-v-czene.jpg",
+      "https://daily-motor.ru/wp-content/uploads/2020/07/tesla-model-y-rezko-poteryala-v-czene-1.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tesla Cybertruck",
+    "type": "Tri Motor AWD, Dual Motor AWD, Single Motor RWD",
+    "price": 44444444,
+    "description": "Пикап Tesla Cybertruck был представлен 21 ноября 2019 года в Лос-Анджелесе. Примечательно, что действие фильма «Бегущий по лезвию» происходит в ноябре 2019 года в Лос-Анджелесе",
+    "imgs": [
+      "https://s0.rbk.ru/v6_top_pics/resized/1440xH/media/img/4/04/756286644163044.jpg",
+      "https://s0.rbk.ru/v6_top_pics/media/img/4/00/756286644987004.jpg"
+    ]
+  }
+]
